@@ -1,0 +1,6 @@
+flask
+openpyxl
+reportlab
+num2words
+Flask-Mail
+gunicorn
